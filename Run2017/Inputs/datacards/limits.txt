@@ -1,0 +1,14 @@
+/afs/cern.ch/work/c/chayanit/private/MSSMHBB_Analysis2020/2017UL/CMSSW_10_6_27/src/analysis-mssmhbb/test/Hbb_MSSM/Run2017/Inputs/datacards/higgsCombineHbb_SR1.AsymptoticLimits.mH125.root
+/afs/cern.ch/work/c/chayanit/private/MSSMHBB_Analysis2020/2017UL/CMSSW_10_6_27/src/analysis-mssmhbb/test/Hbb_MSSM/Run2017/Inputs/datacards/higgsCombineHbb_SR1.AsymptoticLimits.mH130.root
+/afs/cern.ch/work/c/chayanit/private/MSSMHBB_Analysis2020/2017UL/CMSSW_10_6_27/src/analysis-mssmhbb/test/Hbb_MSSM/Run2017/Inputs/datacards/higgsCombineHbb_SR1.AsymptoticLimits.mH140.root
+/afs/cern.ch/work/c/chayanit/private/MSSMHBB_Analysis2020/2017UL/CMSSW_10_6_27/src/analysis-mssmhbb/test/Hbb_MSSM/Run2017/Inputs/datacards/higgsCombineHbb_SR1.AsymptoticLimits.mH160.root
+/afs/cern.ch/work/c/chayanit/private/MSSMHBB_Analysis2020/2017UL/CMSSW_10_6_27/src/analysis-mssmhbb/test/Hbb_MSSM/Run2017/Inputs/datacards/higgsCombineHbb_SR1.AsymptoticLimits.mH180.root
+/afs/cern.ch/work/c/chayanit/private/MSSMHBB_Analysis2020/2017UL/CMSSW_10_6_27/src/analysis-mssmhbb/test/Hbb_MSSM/Run2017/Inputs/datacards/higgsCombineHbb_SR1.AsymptoticLimits.mH200.root
+/afs/cern.ch/work/c/chayanit/private/MSSMHBB_Analysis2020/2017UL/CMSSW_10_6_27/src/analysis-mssmhbb/test/Hbb_MSSM/Run2017/Inputs/datacards/higgsCombineHbb_SR2.AsymptoticLimits.mH250.root
+/afs/cern.ch/work/c/chayanit/private/MSSMHBB_Analysis2020/2017UL/CMSSW_10_6_27/src/analysis-mssmhbb/test/Hbb_MSSM/Run2017/Inputs/datacards/higgsCombineHbb_SR2.AsymptoticLimits.mH300.root
+/afs/cern.ch/work/c/chayanit/private/MSSMHBB_Analysis2020/2017UL/CMSSW_10_6_27/src/analysis-mssmhbb/test/Hbb_MSSM/Run2017/Inputs/datacards/higgsCombineHbb_SR2.AsymptoticLimits.mH350.root
+/afs/cern.ch/work/c/chayanit/private/MSSMHBB_Analysis2020/2017UL/CMSSW_10_6_27/src/analysis-mssmhbb/test/Hbb_MSSM/Run2017/Inputs/datacards/higgsCombineHbb_SR3.AsymptoticLimits.mH400.root
+/afs/cern.ch/work/c/chayanit/private/MSSMHBB_Analysis2020/2017UL/CMSSW_10_6_27/src/analysis-mssmhbb/test/Hbb_MSSM/Run2017/Inputs/datacards/higgsCombineHbb_SR3.AsymptoticLimits.mH450.root
+/afs/cern.ch/work/c/chayanit/private/MSSMHBB_Analysis2020/2017UL/CMSSW_10_6_27/src/analysis-mssmhbb/test/Hbb_MSSM/Run2017/Inputs/datacards/higgsCombineHbb_SR3.AsymptoticLimits.mH500.root
+/afs/cern.ch/work/c/chayanit/private/MSSMHBB_Analysis2020/2017UL/CMSSW_10_6_27/src/analysis-mssmhbb/test/Hbb_MSSM/Run2017/Inputs/datacards/higgsCombineHbb_SR4.AsymptoticLimits.mH600.root
+/afs/cern.ch/work/c/chayanit/private/MSSMHBB_Analysis2020/2017UL/CMSSW_10_6_27/src/analysis-mssmhbb/test/Hbb_MSSM/Run2017/Inputs/datacards/higgsCombineHbb_SR4.AsymptoticLimits.mH700.root
